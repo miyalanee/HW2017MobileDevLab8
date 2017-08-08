@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/miyag/Documents/HW2017MobileDevLab8/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/miyag/Documents/HW2017MobileDevLab8/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_929a7f7785470eac6c461d3458fbd27fd4bfe301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/miyag/Documents/HW2017MobileDevLab8/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a02c3a2187d1b5d2906f03adc73c18e9796b5b98">
+        <dex dex="/Users/miyag/Documents/HW2017MobileDevLab8/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_437847901f82fb2a38e9315dd16707a6fc3b6e4e/classes.dex" />
+    </item>
+
+</items>
